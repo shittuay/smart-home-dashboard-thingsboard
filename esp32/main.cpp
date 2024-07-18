@@ -24,9 +24,9 @@ constexpr int LED_PIN4 = 26;
 constexpr int LED_PIN5 = 27;
 
 // WiFi and ThingsBoard Configuration
-constexpr char WIFI_SSID[] = "Wokwi-GUEST";
-constexpr char WIFI_PASSWORD[] = "";
-constexpr char TOKEN[] = "8AIEOQRywKJ8NLTDdgcq";
+constexpr char WIFI_SSID[] = "SpectrumSetup-A4";
+constexpr char WIFI_PASSWORD[] = "ancientdeer367";
+constexpr char TOKEN[] = "DgkyhkfyE5cmCHulCHOp";
 constexpr char THINGSBOARD_SERVER[] = "thingsboard.cloud";
 constexpr uint16_t THINGSBOARD_PORT = 1883U;
 constexpr uint32_t MAX_MESSAGE_SIZE = 1024U;
